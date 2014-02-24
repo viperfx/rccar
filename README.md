@@ -10,3 +10,5 @@ The remote's cover was removed and appropriate pin were connected to an mbed mic
 
 ![alt text](http://i.imgur.com/PmnwTjr.jpg "Workspace screenshot")
 
+##Talk
+I gave a talk about this at Django Weekend 2014 in Cardiff. You can find the presenation slides [here](https://slid.es/tharshan09/baby-you-can-drive-my-car-with-a-bit-of-python/)
